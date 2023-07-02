@@ -1,0 +1,47 @@
+1. Build a bin search tree, print the elements of its subtree, starting from the root with the maximum total weight. Determine this amount and print
+2. We enter a list of students, which stores the name and three grades for exams. You need to display the names and the average score for the exams of those students who do not have twos. (+ Display the names in alphabetical order)
+3. Build two lists, invert them, concatenate and display the result
+4. Given an array of integers. Print all duplicates (duplicate elements) using a binary tree
+5. Create two singly-directed lists. Then leave in the first list only the elements included in both lists, and print its elements
+6. Generate binary search tree, direct right-hand firmware, direct traversal and output result
+7. The level in the tree is set. find the number of elements on it
+9. Build a binary tree. For each tree node, swap its left and right children, if possible, and then display the nodes of the tree, traversing it in symmetrical order
+10. Build a queue, sort it in descending order, then insert element k into the queue without violating the order of the queue
+11. From 2 queues organize a stack and display it on the screen
+12. Make a symmetrical right stitch of the tree, then make a symmetrical bypass of the stitched tree and display
+13. Build a bean tree. Print the number of nodes that have only a left son, only a right son, and both sons (3 numbers)
+14. Given a database of telephone numbers containing the last name, number, address
+15. Find adjacent vertices of a given length of paths to adjacent vertices in a list and sort this list
+16. Build a binary search tree, print its elements, starting from the root with the minimum total weight. determine this amount and print
+17. Create two singly-directed lists, then from the elements of both lists on the first line, build a list sorted in ascending order and print its elements
+18. The graph is given by the adjacency matrix. It is necessary to display all vertices adjacent to the given one, sorted in descending order
+19. 2 queues are given, filled with symbols of the Latin alphabet and numbers, make two of them, so that only symbols remain in one, and only numbers in the other
+20. Given a directed graph, you need to find the vertices adjacent to the vertex v and display the list of weights of the arcs of adjacent vertices on the screen, sorting it in ascending order
+21. Bidirectional list, the information field contains letters of the Latin alphabet. Print them in alphabetical order and next to each letter print the number of repetitions in the list
+22. A list is given. Sort. Insert an element without disturbing the order
+23. Given a graph, find the vertices adjacent to the given one. And the weights of the arcs are in descending order. The graph is given by the adjacency matrix
+25. Two lists are given. Sort and redistribute elements in them in such a way that only non-negative elements remain in the first, and only negative elements in the second. Then display the lists
+
+1. Построить бин дерево поиска, вывести на печать элементы его поддерева, начиная с корня, имеющего максимальный суммарный вес. Определить эту сумму и вывести на печать
+2. Вводим список студентов, в котором хранятся имя и три оценки за экзамены. Нужно вывести имена и средний бал за экзамены тех студентов, у которых нету двоек.(+вывести имена в алфавитном порядке)
+3. Построить два списка, инвертировать их, сцепить и вывести полученный результат
+4. Дан массив целых чисел. Вывести на печать все дубликаты(повторяющиеся элементы), используя бинарное дерево
+5. Создать два однонаправленных списка. Затем оставить в первом списке только элементы, входящие в оба списка, и распечатать его элементы
+6. Создать бинарные дерево поиска, прямую правую прошивку, прямой обход и вывести результат
+7. Задан уровень в дереве. найти количество элементов на нем
+9. Построить бинарное дерево. Для каждого узла дерева поменять местами его левого и правого сыновей, если это возможно, а затем вывести на экран узлы дерева, обходя его в симметричном порядке
+10. Построить очередь,упорядочить её по убыванию,затем вставить в очередь элемент k,не нарушив порядок очереди
+11. Из 2 очередей организовать стек и вывести его на экран
+12. Сделать симметрично правую прошивку дерева, затем сделать симметричный обход прошитого дерева и вывести на экран
+13. Построить бин дерево. Вывести кол-во узлов, у которых только левый сын, только правый сын и оба сына(3 числа)
+14. Дан база телефонных номеров, содержащая фамилию, номер, адрес
+15. Найти смежные вершины заданной, длины путей до смежных вершин в список и отсортировать этот список
+16. Построить бинарное дерево поиска, вывести на печать его элементы, начиная с корня, имеющего минимальный суммарный вес. определить эту сумму и вывести на печать
+17. Создать два однонаправленных списка затем из элементов обоих списков на овнове первого посторить список упорядоченный по возрастанию и распечатаеть его элементы
+18. Граф задан матрицей смежности. Нужно вывести все вершины, смежные с заданной, отсортированные по убыванию
+19. Даны 2 очереди, заполнены символами латинмского алфавита и числами, сделать из них две, так, стобы в одной остались только символы, в друго-только числа
+20. Дан ориентированный граф, нужно найти вершины смежные с вершиной v и вывести список весов дуг смежных вершин на экран, упорядочив его по возрастанию
+21. Двунаправленный список, в информационном поле содержаться буквы латинского алфавита. Вывести их в алфавитном порядке и напротив каждой буквы вывести количество повторений в списке
+22. Дан список. Отсортировать. Вставить элемент не нарушая порядка
+23. Дан граф, найти вершины смежные с заданной. И вес дуг в порядке убывания. Граф задан матрицей смежности
+25. Даны два списка. Отсортировать и перераспределить в них элементы таким образом, чтобы в первом остались только неотрицательные элементы, а во втором - только отрицательные. Затем списки вывести на экран
